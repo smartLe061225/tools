@@ -1,7 +1,7 @@
 # Tools
 
 ## Git
-* [Git](https://git-scm.com/download)
+* [Git](https://git-scm.com/download) - Git is a free and open source distributed version control system.
 * [Meld](http://www.meldmerge.org) - Meld is a visual diff and merge tool targeted at developers.
 
 ## editor
